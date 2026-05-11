@@ -1,0 +1,12 @@
+[submodule "react-native-test-app"]
+	path = react-native-test-app
+	url = https://BradyCorp1@dev.azure.com/BradyCorp1/CortexDecoderSDK/_git/react-native-restructure-2-test-app
+[submodule "react-native-sdk"]
+	path = react-native-sdk
+	url = https://BradyCorp1@dev.azure.com/BradyCorp1/CortexDecoderSDK/_git/react-native-restructure-2
+[submodule "android-sdk"]
+	path = android-sdk
+	url = https://skanda-srikanta@bitbucket.org/codecorpIT/cortexscanandroidsdk.git
+[submodule "ios-sdk"]
+	path = ios-sdk
+	url = https://skanda-srikanta@bitbucket.org/codecorpIT/cortexdecoder-swift.git
